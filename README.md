@@ -5,7 +5,7 @@
 ### Sempre em busca de conhecimento 👊🏼
 
 -  👨‍💻 Desenvolvedor JavaScript Node.js 
--  🧑🏽‍🚀 Estudante de Engenharia de Software pela Universidade Federal do amazonas
+-  🧑🏽‍🚀 Estudante de Engenharia de Software pela Universidade Federal do Amazonas
 -  😍 Amante das principais tecnologias de desenvolvimento Web
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matoslopes23)](https://github.com/anuraghazra/github-readme-stats)
