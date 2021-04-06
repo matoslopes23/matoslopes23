@@ -1,5 +1,8 @@
-### Hi there, I am Lucas Weslen👋
+#  Lucas Weslen👋
 
+https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
