@@ -1,6 +1,6 @@
 #  Lucas Weslen👋
 
-##Sempre em busca de conhecimento
+## Sempre em busca de conhecimento 👊🏼
 
 -  👨‍💻 Desenvolvedor JavaScript Node.js 
 -  🧑🏽‍🚀 Estudante de Engenharia de Software pela Universidade Federal do amazonas
