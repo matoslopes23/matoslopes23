@@ -4,8 +4,8 @@
 
 ### Sempre em busca de conhecimento 👊🏼
 
--  👨‍💻 Desenvolvedor JavaScript Node.js 
 -  🧑🏽‍🚀 Estudante de Engenharia de Software pela Universidade Federal do Amazonas
+-  👨‍💻 Habilidades: HTML, CSS, JavaScript,Bootstrap, NodeJs, Express, TypeScript, Docker.
 -  😍 Amante das principais tecnologias de desenvolvimento Web
  
 
