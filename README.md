@@ -8,4 +8,7 @@
 -  🧑🏽‍🚀 Estudante de Engenharia de Software pela Universidade Federal do Amazonas
 -  😍 Amante das principais tecnologias de desenvolvimento Web
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matoslopes23)](https://github.com/anuraghazra/github-readme-stats)
+
+| Estatísticas gerais                                                                                                                                                     | Principais stacks                                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=matoslopes23&show_icons=true&hide_border=true&count_private=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matoslopes23&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact) |
