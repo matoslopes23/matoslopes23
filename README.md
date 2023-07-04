@@ -5,7 +5,7 @@
 ## Sempre em busca de conhecimento 👊🏼
 
 -  🧑🏽‍🚀 Estudante de Engenharia de Software pela Universidade Federal do Amazonas
--  👨‍💻 Habilidades: HTML, CSS, JavaScript,Bootstrap, NodeJs, ExpressJs, TypeScript, AdonisJs, NestJs e Docker.
+-  👨‍💻 Habilidades: HTML, CSS, JavaScript,Bootstrap, NodeJs, ExpressJs, TypeScript, AdonisJs, NestJs e Docker, AWS S3, GCP.
 -  😍 Amante das principais tecnologias de desenvolvimento Web
  
 
